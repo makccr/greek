@@ -25,7 +25,7 @@ The tool that I'm using to learn to speak Greek is from [Language Transfer](http
   
 - [x] Lesson 1 ~ 2026.04.20
 - [x] Lesson 2 ~ 2026.04.28
-- [ ] Lesson 3 
+- [x] Lesson 3 - 2026.05.03
 - [ ] Lesson 4
 - [ ] Lesson 5
 - [ ] Lesson 6
