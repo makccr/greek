@@ -5,15 +5,13 @@
 # Timeline
 
 ### 2026.04.29  
-I began by writing out the greek alphabet every day, being very intentional to pronounce each letter as I wrote. It took me roughly two weeks to memorize all the characters and be able to write out the full alphabet in order correctly. The intention is to continue to write out the alphabet a few times a week, but focus much more heavily on other things. 
-
-**Note**: I spent far longer on this than I likely needed to, as this was my first attempt to learn a languaage that does not use the Latin-script alphabet that I'm famliar with.
+I began by writing out the Greek alphabet every day, pronouncing each letter as I wrote. I spent roughly two weeks doing this, to memorize all the characters and be able to write out the full alphabet in order correctly. I spent far longer on this than I likely needed to, as this was my first attempt to learn a language that does not use the Latin-script alphabet that I'm familiar with.
 
 ### 2026.05.03
-I have no swapped to simotaneously learning to type in Greek & learn to *speak* Greek. In the past I have used things like an [Anki Decks](https://ankiweb.net/shared/info/1627766425) to learn new vocabulary words, and focused on reading new languages, as opposed to speaking them. I decided to try the opposite approach this time around. 
+I begun simultaneously learning to type in Greek & learn to *speak* Greek. In the past I have used things like an [Anki Decks](https://ankiweb.net/shared/info/1627766425) to learn new vocabulary words, and focused on reading new languages, as opposed to speaking them. I decided to try the opposite approach this time around. 
 
 ##### Typing
-[Typing Point](https://www.typingpoint.com/) has as a [dedicated Greek typing tutor](https://www.typingpoint.com/greek/greek-typing). [Monkey Type](https://monkeytype.com/) is another option, that I will likely switch to. It does not have a *Greek typing class*, but will allow you to run typing tests in nearly any language. I also purchased a set of Greek alphabet [keyboard stickers](https://keyshorts.com/collections/language-keyboard-stickers/greek), but I don't think this is necessary. The Greek characters that line up phonetically with an English sounding one are where I would expect them to be on the keyboard, and it's also very easy to learn how to touch type. I'm pretty sure I'll be peeling the stickers off of my keyboard quite soon.
+[Typing Point](https://www.typingpoint.com/) has as a [dedicated Greek typing tutor](https://www.typingpoint.com/greek/greek-typing). [Monkey Type](https://monkeytype.com/) is another option, that I will likely switch to. It does not have a *Greek typing class*, but will allow you to run typing tests in nearly any language. I also purchased a set of Greek alphabet [keyboard stickers](https://keyshorts.com/collections/language-keyboard-stickers/greek), but I don't think this is necessary. The Greek characters that line up phonetically with an English sounding one are where one would expect them to be on the keyboard, and it's also very easy to learn how to touch type. I'm pretty sure I'll be peeling the stickers off of my keyboard quite soon.
 
 ##### Speaking Modern Greek
 The tool that I'm using to learn to speak Greek is from [Language Transfer](https://www.languagetransfer.org). I have only begun to use the Greek program, which can be [downloaded here](https://downloads.languagetransfer.org/greek/greek.zip), but I am already very impressed with the circulum, so much so that I'm fully committed to learning to speak before I begin to practice reading Greek.
