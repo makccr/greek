@@ -16,6 +16,11 @@ I begun simultaneously learning to type in Greek & learn to *speak* Greek. In th
 ##### Speaking Modern Greek
 The tool that I'm using to learn to speak Greek is from [Language Transfer](https://www.languagetransfer.org). I have only begun to use the Greek program, which can be [downloaded here](https://downloads.languagetransfer.org/greek/greek.zip), but I am already very impressed with the circulum, so much so that I'm fully committed to learning to speak before I begin to practice reading Greek.
 
+### 2025.05.19 - Τριτη
+I'm continuing to work through Language Transfer's course (though I did take far to long of a break), but also focusing on noticing Greek where possible. I'm listening to more Greek language music (Haris Alexiou for example), and also doing things like changing the day of the week on my computer's task bar to Greek and making a point of knowing how to say the current day of the week in Greek, or changing my car/phone's language to Greek and slowly learning how to say more things in Greek that way. This also helps for sounding words out phonetically and figuring out how to read Greek, which as much as I enjoy Language Transfer, is not at all something that course focuses on.
+
+TLDR; I'm focusing on seeking out Greek translations for things I use everyday andior find fun/interesting, in addition to following more structured learning.
+
 <details> 
 <summary> Lesson Tracker</summary>
 
@@ -24,7 +29,7 @@ The tool that I'm using to learn to speak Greek is from [Language Transfer](http
 - [x] Lesson 1 ~ 2026.04.20
 - [x] Lesson 2 ~ 2026.04.28
 - [x] Lesson 3 - 2026.05.03
-- [x] Lesson 4 - 2026.05.04
+- [x] Lesson 4 - 2026.05.04, re-did on 2026.05.19
 - [x] Lesson 5 - 2026.05.06
 - [ ] Lesson 6
 - [ ] Lesson 7
