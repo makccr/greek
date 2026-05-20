@@ -30,7 +30,7 @@ TLDR; I'm focusing on seeking out Greek translations for things I use everyday a
 - [x] Lesson 2 ~ 2026.04.28
 - [x] Lesson 3 - 2026.05.03
 - [x] Lesson 4 - 2026.05.04, re-did on 2026.05.19
-- [x] Lesson 5 - 2026.05.06
+- [x] Lesson 5 - 2026.05.06, re-did on 2026.05.20
 - [ ] Lesson 6
 - [ ] Lesson 7
 - [ ] Lesson 8
