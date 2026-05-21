@@ -22,110 +22,110 @@ I'm continuing to work through Language Transfer's course (though I did take far
 TLDR; I'm focusing on seeking out Greek translations for things I use everyday andior find fun/interesting, in addition to following more structured learning.
 
 <details> 
-<summary> Lesson Tracker</summary>
+<summary>Language Transfer Lesson Tracker</summary>
 
 <br>
   
-- [x] Lesson 1 ~ 2026.04.20
-- [x] Lesson 2 ~ 2026.04.28
-- [x] Lesson 3 - 2026.05.03
-- [x] Lesson 4 - 2026.05.04, re-did on 2026.05.19
-- [x] Lesson 5 - 2026.05.06, re-did on 2026.05.20
-- [x] Lesson 6 - 2026.05.20
-- [x] Lesson 7 - 2026.05.20
-- [x] Lesson 8 - 2026.05.21
-- [x] Lesson 9 - 2026.05.21
-- [x] Lesson 10 - 2026.05.21
-- [ ] Lesson 11
-- [ ] Lesson 12
-- [ ] Lesson 13
-- [ ] Lesson 14
-- [ ] Lesson 15
-- [ ] Lesson 15
-- [ ] Lesson 16
-- [ ] Lesson 17
-- [ ] Lesson 18
-- [ ] Lesson 19
-- [ ] Lesson 20
-- [ ] Lesson 21
-- [ ] Lesson 22
-- [ ] Lesson 23
-- [ ] Lesson 24
-- [ ] Lesson 25
-- [ ] Lesson 26
-- [ ] Lesson 27
-- [ ] Lesson 28
-- [ ] Lesson 29
-- [ ] Lesson 30
-- [ ] Lesson 31
-- [ ] Lesson 32
-- [ ] Lesson 33
-- [ ] Lesson 34
-- [ ] Lesson 35
-- [ ] Lesson 36
-- [ ] Lesson 37
-- [ ] Lesson 38
-- [ ] Lesson 39
-- [ ] Lesson 40
-- [ ] Lesson 41
-- [ ] Lesson 42
-- [ ] Lesson 43
-- [ ] Lesson 44
-- [ ] Lesson 45
-- [ ] Lesson 46
-- [ ] Lesson 47
-- [ ] Lesson 48
-- [ ] Lesson 49
-- [ ] Lesson 50
-- [ ] Lesson 51
-- [ ] Lesson 52
-- [ ] Lesson 53
-- [ ] Lesson 54
-- [ ] Lesson 55
-- [ ] Lesson 56
-- [ ] Lesson 57
-- [ ] Lesson 58
-- [ ] Lesson 59
-- [ ] Lesson 60
-- [ ] Lesson 61
-- [ ] Lesson 62
-- [ ] Lesson 63
-- [ ] Lesson 64
-- [ ] Lesson 65
-- [ ] Lesson 66
-- [ ] Lesson 67
-- [ ] Lesson 68
-- [ ] Lesson 69
-- [ ] Lesson 70
-- [ ] Lesson 71
-- [ ] Lesson 72
-- [ ] Lesson 73
-- [ ] Lesson 74
-- [ ] Lesson 75
-- [ ] Lesson 76
-- [ ] Lesson 77
-- [ ] Lesson 78
-- [ ] Lesson 79
-- [ ] Lesson 80
-- [ ] Lesson 81
-- [ ] Lesson 82
-- [ ] Lesson 83
-- [ ] Lesson 84
-- [ ] Lesson 85
-- [ ] Lesson 86
-- [ ] Lesson 87
-- [ ] Lesson 88
-- [ ] Lesson 89
-- [ ] Lesson 90
-- [ ] Lesson 91
-- [ ] Lesson 92
-- [ ] Lesson 93
-- [ ] Lesson 94
-- [ ] Lesson 95
-- [ ] Lesson 96
-- [ ] Lesson 97
-- [ ] Lesson 98
-- [ ] Lesson 99
+- [x] Lesson 001 ~ 2026.04.20
+- [x] Lesson 002 ~ 2026.04.28
+- [x] Lesson 003 - 2026.05.03
+- [x] Lesson 004 - 2026.05.04, re-did on 2026.05.19
+- [x] Lesson 005 - 2026.05.06, re-did on 2026.05.20
+- [x] Lesson 006 - 2026.05.20
+- [x] Lesson 007 - 2026.05.20
+- [x] Lesson 008 - 2026.05.21
+- [x] Lesson 009 - 2026.05.21
+- [x] Lesson 010 - 2026.05.21
+- [ ] Lesson 011
+- [ ] Lesson 012
+- [ ] Lesson 013
+- [ ] Lesson 014
+- [ ] Lesson 015
+- [ ] Lesson 015
+- [ ] Lesson 016
+- [ ] Lesson 017
+- [ ] Lesson 018
+- [ ] Lesson 019
+- [ ] Lesson 020
+- [ ] Lesson 021
+- [ ] Lesson 022
+- [ ] Lesson 023
+- [ ] Lesson 024
+- [ ] Lesson 025
+- [ ] Lesson 026
+- [ ] Lesson 027
+- [ ] Lesson 028
+- [ ] Lesson 029
+- [ ] Lesson 030
+- [ ] Lesson 031
+- [ ] Lesson 032
+- [ ] Lesson 033
+- [ ] Lesson 034
+- [ ] Lesson 035
+- [ ] Lesson 036
+- [ ] Lesson 037
+- [ ] Lesson 038
+- [ ] Lesson 039
+- [ ] Lesson 040
+- [ ] Lesson 041
+- [ ] Lesson 042
+- [ ] Lesson 043
+- [ ] Lesson 044
+- [ ] Lesson 045
+- [ ] Lesson 046
+- [ ] Lesson 047
+- [ ] Lesson 048
+- [ ] Lesson 049
+- [ ] Lesson 050
+- [ ] Lesson 051
+- [ ] Lesson 052
+- [ ] Lesson 053
+- [ ] Lesson 054
+- [ ] Lesson 055
+- [ ] Lesson 056
+- [ ] Lesson 057
+- [ ] Lesson 058
+- [ ] Lesson 059
+- [ ] Lesson 060
+- [ ] Lesson 061
+- [ ] Lesson 062
+- [ ] Lesson 063
+- [ ] Lesson 064
+- [ ] Lesson 065
+- [ ] Lesson 066
+- [ ] Lesson 067
+- [ ] Lesson 068
+- [ ] Lesson 069
+- [ ] Lesson 070
+- [ ] Lesson 071
+- [ ] Lesson 072
+- [ ] Lesson 073
+- [ ] Lesson 074
+- [ ] Lesson 075
+- [ ] Lesson 076
+- [ ] Lesson 077
+- [ ] Lesson 078
+- [ ] Lesson 079
+- [ ] Lesson 080
+- [ ] Lesson 081
+- [ ] Lesson 082
+- [ ] Lesson 083
+- [ ] Lesson 084
+- [ ] Lesson 085
+- [ ] Lesson 086
+- [ ] Lesson 087
+- [ ] Lesson 088
+- [ ] Lesson 089
+- [ ] Lesson 090
+- [ ] Lesson 091
+- [ ] Lesson 092
+- [ ] Lesson 093
+- [ ] Lesson 094
+- [ ] Lesson 095
+- [ ] Lesson 096
+- [ ] Lesson 097
+- [ ] Lesson 098
+- [ ] Lesson 099
 - [ ] Lesson 100
 - [ ] Lesson 101
 - [ ] Lesson 102
