@@ -38,7 +38,7 @@ TLDR; I'm focusing on seeking out Greek translations for things I use everyday a
 - [x] Lesson 010 - 2026.05.21
 - [x] Lesson 011 - 2026.05.22
 - [x] Lesson 012 - 2026.05.22
-- [ ] Lesson 013
+- [x] Lesson 013 - 2026.05.22
 - [ ] Lesson 014
 - [ ] Lesson 015
 - [ ] Lesson 015
