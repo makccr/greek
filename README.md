@@ -29,8 +29,8 @@ TLDR; I'm focusing on seeking out Greek translations for things I use everyday a
 - [x] Lesson 001 ~ 2026.04.20
 - [x] Lesson 002 ~ 2026.04.28
 - [x] Lesson 003 - 2026.05.03
-- [x] Lesson 004 - 2026.05.04, re-did on 2026.05.19
-- [x] Lesson 005 - 2026.05.06, re-did on 2026.05.20
+- [x] Lesson 004 - 2026.05.04, 2026.05.19
+- [x] Lesson 005 - 2026.05.06, 2026.05.20
 - [x] Lesson 006 - 2026.05.20
 - [x] Lesson 007 - 2026.05.20
 - [x] Lesson 008 - 2026.05.21
@@ -38,10 +38,9 @@ TLDR; I'm focusing on seeking out Greek translations for things I use everyday a
 - [x] Lesson 010 - 2026.05.21
 - [x] Lesson 011 - 2026.05.22
 - [x] Lesson 012 - 2026.05.22
-- [x] Lesson 013 - 2026.05.22
-- [ ] Lesson 014
-- [ ] Lesson 015
-- [ ] Lesson 015
+- [x] Lesson 013 - 2026.05.22, 2026.05.26
+- [x] Lesson 014 - 2026.05.26
+- [x] Lesson 015 - 2026.05.26
 - [ ] Lesson 016
 - [ ] Lesson 017
 - [ ] Lesson 018
