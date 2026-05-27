@@ -43,8 +43,8 @@ TLDR; I'm focusing on seeking out Greek translations for things I use everyday a
 - [x] Lesson 015 - 2026.05.26
 - [x] Lesson 016 - 2026.05.26
 - [x] Lesson 017 - 2026.05.26
-- [ ] Lesson 018
-- [ ] Lesson 019
+- [x] Lesson 018 - 2026.05.27
+- [x] Lesson 019 - 2026.05.27
 - [ ] Lesson 020
 - [ ] Lesson 021
 - [ ] Lesson 022
