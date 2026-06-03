@@ -26,27 +26,27 @@ TLDR; I'm focusing on seeking out Greek translations for things I use everyday a
 
 <br>
   
-- [x] Lesson 001 ~ 2026.04.20
-- [x] Lesson 002 ~ 2026.04.28
-- [x] Lesson 003 - 2026.05.03
-- [x] Lesson 004 - 2026.05.04, 2026.05.19
-- [x] Lesson 005 - 2026.05.06, 2026.05.20
-- [x] Lesson 006 - 2026.05.20
-- [x] Lesson 007 - 2026.05.20
-- [x] Lesson 008 - 2026.05.21
-- [x] Lesson 009 - 2026.05.21
-- [x] Lesson 010 - 2026.05.21
-- [x] Lesson 011 - 2026.05.22
-- [x] Lesson 012 - 2026.05.22
-- [x] Lesson 013 - 2026.05.22, 2026.05.26
-- [x] Lesson 014 - 2026.05.26
-- [x] Lesson 015 - 2026.05.26
-- [x] Lesson 016 - 2026.05.26
-- [x] Lesson 017 - 2026.05.26
-- [x] Lesson 018 - 2026.05.27
-- [x] Lesson 019 - 2026.05.27, 2026.05.28
-- [x] Lesson 020 - 2026.05.28
-- [x] Lesson 021 - 2026.05.29
+- [x] Lesson 001
+- [x] Lesson 002 
+- [x] Lesson 003
+- [x] Lesson 004
+- [x] Lesson 005 
+- [x] Lesson 006 
+- [x] Lesson 007 
+- [x] Lesson 008 
+- [x] Lesson 009 
+- [x] Lesson 010 
+- [x] Lesson 011 
+- [x] Lesson 012 
+- [x] Lesson 013 
+- [x] Lesson 014 
+- [x] Lesson 015 
+- [x] Lesson 016 
+- [x] Lesson 017 
+- [x] Lesson 018 
+- [x] Lesson 019 
+- [x] Lesson 020 
+- [x] Lesson 021 
 - [ ] Lesson 022
 - [ ] Lesson 023
 - [ ] Lesson 024
