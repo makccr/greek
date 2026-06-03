@@ -47,7 +47,7 @@ TLDR; I'm focusing on seeking out Greek translations for things I use everyday a
 - [x] Lesson 019 
 - [x] Lesson 020 
 - [x] Lesson 021 
-- [ ] Lesson 022
+- [x] Lesson 022
 - [ ] Lesson 023
 - [ ] Lesson 024
 - [ ] Lesson 025
