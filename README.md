@@ -50,8 +50,8 @@ TLDR; I'm focusing on seeking out Greek translations for things I use everyday a
 - [x] Lesson 022
 - [x] Lesson 023
 - [x] Lesson 024
-- [ ] Lesson 025
-- [ ] Lesson 026
+- [x] Lesson 025
+- [x] Lesson 026
 - [ ] Lesson 027
 - [ ] Lesson 028
 - [ ] Lesson 029
