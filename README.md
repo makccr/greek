@@ -28,30 +28,30 @@ TLDR; I'm focusing on seeking out Greek translations for things I use everyday a
   
 - [x] Lesson 001
 - [x] Lesson 002 
-- [x] Lesson 003
-- [x] Lesson 004
-- [x] Lesson 005 
-- [x] Lesson 006 
-- [x] Lesson 007 
-- [x] Lesson 008 
-- [x] Lesson 009 
-- [x] Lesson 010 
-- [x] Lesson 011 
-- [x] Lesson 012 
-- [x] Lesson 013 
-- [x] Lesson 014 
-- [x] Lesson 015 
-- [x] Lesson 016 
-- [x] Lesson 017 
-- [x] Lesson 018 
-- [x] Lesson 019 
-- [x] Lesson 020 
-- [x] Lesson 021 
-- [x] Lesson 022
-- [x] Lesson 023
-- [x] Lesson 024
-- [x] Lesson 025
-- [x] Lesson 026
+- [ ] Lesson 003
+- [ ] Lesson 004
+- [ ] Lesson 005 
+- [ ] Lesson 006 
+- [ ] Lesson 007 
+- [ ] Lesson 008 
+- [ ] Lesson 009 
+- [ ] Lesson 010 
+- [ ] Lesson 011 
+- [ ] Lesson 012 
+- [ ] Lesson 013 
+- [ ] Lesson 014 
+- [ ] Lesson 015 
+- [ ] Lesson 016 
+- [ ] Lesson 017 
+- [ ] Lesson 018 
+- [ ] Lesson 019 
+- [ ] Lesson 020 
+- [ ] Lesson 021 
+- [ ] Lesson 022
+- [ ] Lesson 023
+- [ ] Lesson 024
+- [ ] Lesson 025
+- [ ] Lesson 026
 - [ ] Lesson 027
 - [ ] Lesson 028
 - [ ] Lesson 029
